@@ -5,6 +5,8 @@
 >个人博客。如果有写的不好的地方，请直接指出。谢谢。
 
 -   2017
+    -   08
+        -   [webpack 简易配置入门教程](https://github.com/JZLeung/blog/issues/12)
     -   07
         -   [插件分享大会[不定期更新]](https://github.com/JZLeung/blog/issues/11)
     -   06
