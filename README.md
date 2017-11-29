@@ -6,7 +6,7 @@
 
 -   2017
     -   11
-        29   [慕课网 Gallary-by-React 学习笔记](https://github.com/JZLeung/blog/issues/16)
+        -   [慕课网 Gallary-by-React 学习笔记](https://github.com/JZLeung/blog/issues/16)
     -   10
         -   [Docker 学习笔记 - Day3](https://github.com/JZLeung/blog/issues/15)
     -   09
